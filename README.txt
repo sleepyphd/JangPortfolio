@@ -1,3 +1,18 @@
+# Rockelle Jang's Portfolio
+
+This is a digital portfolio where I showcase some of my technical writing projects
+
+## Important
+
+- This website was generated using a template from [HTML5 UP](https://html5up.net/).
+- The photos on the website were taken from [unsplash](https://unsplash.com/).
+- I used ChatGPT to help me create and publish the website. Thank you, OpenAI!
+
+See the original README for this website template below
+
+--------------------------------------------------------
+
+
 Ethereal by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
